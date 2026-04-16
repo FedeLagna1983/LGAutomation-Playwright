@@ -83,6 +83,12 @@ Ejecutar por tag para Jenkins:
 python -m pytest -m jenkins --browser chromium --junitxml=artifacts/reports/pytest-jenkins.xml
 ```
 
+Ejecutar el escenario de validacion de textos Home:
+
+```powershell
+python -m pytest -m homenavigation --browser chromium --headed -s
+```
+
 Ejecutar todo el proyecto (tests clasicos + BDD):
 
 ```powershell
