@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="3.418" timestamp="2026-04-15T20:02:02.221858-04:00" hostname="Gala"><testcase classname="tests.test_navigation_bdd" name="test_navegar_de_home_a_contact_y_volver_a_home[chromium]" time="3.401" /></testsuite></testsuites>
